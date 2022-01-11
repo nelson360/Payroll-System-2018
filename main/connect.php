@@ -1,10 +1,10 @@
 <?php // rnfunctions.php
 error_reporting(E_ALL ^ E_DEPRECATED);
 $dbhost = 'localhost'; // Unlikely to require changing
-$dbname = 'barlettah'; // Modify these...
+$dbname = 'kencity '; // Modify these...
 $dbuser = 'root'; // ...variables according
 $dbpass = ''; // ...to your installation
-mysql_connect($dbhost, $dbuser, $dbpass) or die(mysql_error());
+m ysql_connect($dbhost, $dbuser, $dbpass) or die(mysql_error());
 mysql_select_db($dbname) or die(mysql_error());
 function sessionStart()
 {

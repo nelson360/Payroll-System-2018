@@ -1,0 +1,231 @@
+[33mcommit 7043c0f05a51f5bbd2d89a26566b36fef1f82a1c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mupstream/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jan 24 16:38:49 2020 +0300
+
+    Create DB file
+    
+    username for login : admin@hr.com
+    password : admin
+
+[33mcommit 64e2a5e70b904a683aeb5007d72f8dbed4d34dac[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Sat Sep 29 12:10:42 2018 +0300
+
+    ok
+
+[33mcommit f130471afa7a14014238bf19dacec54b60ffadb1[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Wed Sep 5 13:18:29 2018 +0300
+
+    sms module added
+
+[33mcommit 01dcb8eab65009b284fb191f1687fac9857ae7ab[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jul 6 11:44:14 2018 +0300
+
+    payslip fix
+    Signed-off-by: simon mbugua <smbugua11@gmail.com>
+
+[33mcommit 348a58e6498eacdf733ad5a0d0296048b4d5e27f[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jul 6 11:13:03 2018 +0300
+
+    nhif fix
+
+[33mcommit d3096dbdd93139e79848c7a5af6fb4454a3bd691[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Tue Jul 3 13:37:58 2018 +0300
+
+    Signed-off-by: simon mbugua <smbugua11@gmail.com>
+
+[33mcommit 707765fb5b153dc5077c95f3759eba4ce1e0d1cb[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Tue Jul 3 12:45:01 2018 +0300
+
+    lunch to commission
+
+[33mcommit 3c3a372ee94e4e99aeb08c2e7ded27a635beebad[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Mon Jul 2 15:35:34 2018 +0300
+
+    select
+
+[33mcommit b06941d83127f4863a30bc766d1684ec261ea4e4[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Mon Jul 2 15:15:03 2018 +0300
+
+    Signed-off-by: simon mbugua <smbugua11@gmail.com>
+
+[33mcommit ac24ee77dda9ec57ab0d351f45bf76a8c698fb3d[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jun 29 16:07:02 2018 +0300
+
+    ok
+
+[33mcommit 5b25c8bae075611c110198e3f599883d45ba1dbc[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jun 29 15:52:51 2018 +0300
+
+    ok
+
+[33mcommit f0d5e442c15e96887102c10432ec4f9a4cd67aed[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jun 29 15:31:22 2018 +0300
+
+    ok
+
+[33mcommit d9ca6466d1b493c55a7aa2606242ba38fe466c28[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jun 29 15:11:19 2018 +0300
+
+    Signed-off-by: simon mbugua <smbugua11@gmail.com>
+
+[33mcommit e55dc503ea36798af7d6ab73b9dd8bf2b8e6446a[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jun 29 14:46:54 2018 +0300
+
+    added period
+
+[33mcommit 4183886d6c1ec2d36fccca2306f97898af23e0b5[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jun 29 14:27:56 2018 +0300
+
+    payrollrun added on get taxable method
+
+[33mcommit d2351d4403045633309866397dedd58c5035f87f[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jun 29 13:04:15 2018 +0300
+
+    staffid
+
+[33mcommit 342b24db7308fef663dbe0b04771ac2bea2726da[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jun 29 12:58:07 2018 +0300
+
+    ok
+
+[33mcommit 656611d3c47f027892a1e2c78d84c1a3b810aa05[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jun 29 12:55:59 2018 +0300
+
+    ok
+
+[33mcommit b8cd36eb96a1ebf7df43a860513e13473934b95a[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Fri Jun 29 12:48:48 2018 +0300
+
+    ok
+
+[33mcommit 2ed01b4aa3c11dd409c9a5150951fbf675d684b8[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Thu Jun 28 14:29:41 2018 +0300
+
+    ok
+
+[33mcommit 36b4cfa65e14b45fa28a0af5e682833db88f8829[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Thu Jun 28 13:10:34 2018 +0300
+
+    ok
+
+[33mcommit 74ba46530c9208a55cebbaf73b401aab7d6c8c47[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Tue Jun 26 17:29:49 2018 +0300
+
+    final upload for the day
+
+[33mcommit a1bf8a15a1a8dfb24ae2539fbd7b7f72a72867f8[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Tue Jun 26 17:03:31 2018 +0300
+
+    new add branch module
+
+[33mcommit 976b0f12ce693f20c258480926f1b635d4e46eed[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Tue Jun 26 16:25:14 2018 +0300
+
+    10000 paye
+
+[33mcommit 853c94c55049f4a4950377852831df3488b31b88[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Tue Jun 26 16:07:37 2018 +0300
+
+    BALANCE BROUGHT FORWARD
+
+[33mcommit 0c2d4b96296fe84ce118c9eb144840455bf7a9a9[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Tue Jun 26 15:27:57 2018 +0300
+
+    new update
+
+[33mcommit bbc0cd06bd7b5191d066f3cfce90f18d7532a38f[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Wed May 30 16:24:02 2018 +0300
+
+    jd edit
+
+[33mcommit 709093569983cb7d8ded2b337c3daf951070aaed[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Wed May 30 16:06:36 2018 +0300
+
+    Bonus added
+
+[33mcommit f92194d582140d981c0f81b52d25a2d74e1fb9a4[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Mon May 21 11:41:33 2018 +0300
+
+    finito
+
+[33mcommit 431e58176d1e3e3c565dc3d9a4d6281c1c73e740[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Mon May 21 10:04:27 2018 +0300
+
+    ok
+
+[33mcommit 78a54a8151668b8290e4dfd420b70ebc8cc78ac8[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Mon May 21 09:26:32 2018 +0300
+
+    deductions
+
+[33mcommit b5e2c79926547c4f3021261a1dbd00cd97a41503[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Sat May 19 15:14:26 2018 +0300
+
+    ok
+
+[33mcommit 87f91972281fa4b4b02f3010f069283c51c705c4[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Sat May 19 14:53:48 2018 +0300
+
+    ok
+
+[33mcommit bbb925b426b5e2054fbaea0f85147a0727d96689[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Sat May 19 14:52:41 2018 +0300
+
+    batch payslips
+
+[33mcommit 293f74c842fc47507ab7470b5c4598c378e318ca[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Sat May 19 14:31:04 2018 +0300
+
+    fixed add user
+
+[33mcommit 13d5bbcbc0d16cd8eb5d53181130133f05601c44[m
+Author: simon mbugua <smbugua11@gmail.com>
+Date:   Sat May 19 10:26:22 2018 +0300
+
+    Cuspid Commit
+
+[33mcommit f481a72c2cc89f407389ade390bca1c0bd3a91c0[m
+Author: SIMON MBUGUA <SMBUGUA@mo-de.local>
+Date:   Mon Feb 19 13:22:05 2018 +0300
+
+    corrected the fetch bank info query
+
+[33mcommit f8dbbb560ab3d738f6f2167065343abc61a7c3d9[m
+Author: SIMON MBUGUA <SMBUGUA@mo-de.local>
+Date:   Mon Feb 19 12:58:16 2018 +0300
+
+    First Commit

@@ -26,7 +26,7 @@
                 <h1 class="logo-name">P+</h1>
 
             </div>
-            <h3>Welcome to Employee Portal</h3>
+            <h3>Welcome to Employee Portal </h3>
            
             <p></p>
             <form class="m-t" role="form" action="signinclass.php?role=employee" method="post">
@@ -42,7 +42,7 @@
 
                 <a class="btn btn-danger block full-width m-b" href="forgot.php"><small>Forgot password ?</small></a>
             </form>
-            <p class="m-t"> <small>&copy; <?php echo date('Y');?> Powered by<a href="http://www.techcube.co.ke" target="_blank"> Techcube Limited</a></small>  </p>
+            <p class="m-t"> <small>&copy; <?php echo" " .date('Y/m/d'); ?> Powered by<a href="http://www.techcube.co.ke" target="_blank"> Techcube Limited</a></small>  </p>
         </div>
     </div>
 
